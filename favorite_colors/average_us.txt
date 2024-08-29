@@ -1,0 +1,38 @@
+Blue
+
+
+// Java
+
+public class average_us {
+    static class Person {
+        String favoriteColor;
+    }
+
+    public static Main(string[] args) {
+        Person rogerc = new Person();
+        rogerc.favoriteColor = "Blue";
+        System.out.println(rogerc.favoriteColor);
+    }
+}
+
+
+//C++
+
+#include <iostream>
+#include <String>
+
+using namespace std;
+
+String favoriteColor("Blue");
+
+int main() {
+    cout << "rogerc's favorite color is: " << favoriteColor;
+    cout << "ohio";
+    return 0;
+}
+
+
+#Python
+
+favoriteColor = "Blue"
+print(f"Favorite Color: {favoriteColor}")
